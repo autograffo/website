@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/favicon_apple.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon_32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon_16x16.png">
+    <link rel="icon" type="image/x-icon" href="assets/icons/favicon.ico" >
+
+    <!-- CDN jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+    <!-- CDN Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+
+    <!-- CDN Font Awesome Icons -->
+    <script src="https://kit.fontawesome.com/c6d4322e7a.js" crossorigin="anonymous"></script>
+
+    <!-- CDN Material Design Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- CDN Swiper CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+
+    <!-- CDN Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Autógraffo</title>
+  </head>
+  <body>
+    <!-- Cabeçalho -->
+    <header>
+      <nav class="navbar navbar-expand-md navbar-dark">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">
+            <img src="assets/icons/icon_1024x1024.png" alt="Logotipo Autógraffo" width="50" height="50">
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end" id="navbarToggler">
+            <ul class="navbar-nav py-2 mb-lg-0">
+              <li class="nav-item p-2">
+                <a class="nav-link active" aria-current="page" href="index.html">Assinaturas</a>
+              </li>
+              <li class="nav-item p-2">
+                <a class="nav-link" aria-current="page" href="products.html">Produtos</a>
+              </li>
+              <li class="nav-item p-2">
+                <a class="nav-link" aria-current="page" href="manyuaru.html">マニュアル<sup>&#174;</sup></a>
+              </li>
+              <li class="nav-item p-2">
+                <a class="nav-link" aria-current="page" href="about.html">Equipe</a>
+              </li>
+              <li class="nav-item p-2">
+                <a class="btn btn-outline-light" href="https://autograffo.com/tiktok" role="button"><i class="fab fa-tiktok"></i> TikTok</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Conteúdo -->
+    <main>
+      <div class="modal fade" id="copyModal" tabindex="-1" role="dialog" aria-labelledby="copyModalLabel" aria-hidden="true">
+        <div class="modal-dialog mx-auto modal-content w-25 text-success border border-success border-1">
+          <div class="modal-body text-center p-2"><i class="fa-solid fa-circle-check"></i>&nbsp; Copiado!</div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="px-4 mt-5 text-center">
+          <h1 class="display-3 fw-bold">Inspire-se.</h1>
+          <div class="col-lg-6 mx-auto">
+            <h5 class="lead mb-1 text-secondary">E veja o que se pode criar.</h5>
+          </div>
+          <div class="col-lg-6 mx-auto py-1">
+            <p class="lead mb-1">
+              <a href="products.html" alt="">Conheça o Editor <i class="fa-solid fa-link"></i></a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="px-4 mt-5 text-center">
+        <div class="col-lg-6 mx-auto py-1">
+          <p class="lead text-secondary">Dois toques ou passe <span class="material-icons-outlined animate mx-1">swipe</span></p>
+        </div>
+      </div>
+      <div class="swiper cardSwiper mb-4">
+        <div class="swiper-wrapper"></div>
+      </div>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+      <ul class="nav justify-content-center border-bottom border-secondary border-opacity-25 mx-5 pt-3 pb-2 mb-2">
+        <li class="nav-item"><a href="terms.html" class="nav-link px-2 text-white">Termos</a></li>
+        <li class="nav-item"><a href="privacy.html" class="nav-link px-2 text-white">Privacidade</a></li>
+        <li class="nav-item"><a href="https://autograffo.com/whatsapp" class="nav-link px-2 text-white">Contato</a></li>
+      </ul>
+      <p class="text-center text-secondary mx-5 pt-2 pb-4">
+        <img src="assets/icons/icon_1024x1024.png" alt="Logotipo Autógraffo" width="16" height="16">&nbsp;&nbsp;&copy;&nbsp;2023-2024&nbsp;Autógraffo
+      </p>
+    </footer>
+
+    <!-- CDN Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <!-- CDN Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
+    <script src="js/script.js"></script>
+  </body>
+</html>

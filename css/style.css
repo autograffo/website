@@ -1,0 +1,180 @@
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background-color: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h5 {
+  color: #1d1d1f;
+}
+
+h6 {
+  font-size: 1.75em;
+}
+
+h4 span {
+  font-size: .35em;
+  vertical-align: middle;
+  color: #fff;
+  padding: .25em .95em;
+  margin: 0 .25em;
+  border-radius: 20em;
+}
+
+h4 span:first-child {
+  background-color: #2196f3;
+}
+
+.manga-cover {
+  width: fit-content;
+  transform: rotate(353deg);
+  border: .25em dashed #7a7a7a;
+}
+
+.manga-cover img {
+  width: 50vw;
+}
+
+.compatible {
+  text-decoration: none; 
+  font-size: 1.2em;
+}
+
+.compatible i {
+  font-size: 0.8em;
+}
+
+.badge {
+  background-color: #181818;
+  color: #ffffff;
+  width: fit-content;
+  padding: .5em 1.55em;
+  border-radius: 5em;
+  font-size: .8em;
+  font-weight: normal;
+}
+
+.badge i {
+  font-size: 1.5em; 
+  color: #30a953; 
+  vertical-align: middle; 
+  padding-right: .25em;
+}
+
+.mockup {
+  transform: rotate(345deg); 
+  margin: 0em 2.5em; 
+  padding: 0em 1.5em;
+}
+
+.navbar, footer {
+  background-color: #181818;
+}
+
+footer img {
+  margin: -.15em 0 0 0;
+}
+
+table, .table, th, td {
+  background-color: #eee !important;
+}
+
+.navbar .nav-item a {
+  font-size: 1.45em!important;
+}
+
+.navbar-collapse .nav-item:last-child a {
+  border: 1.85px solid #ffffff;
+}
+
+button.navbar-toggler {
+  border: 1px solid #181818;
+}
+
+.modal-dialog {
+  background-color: #c0ffd1
+}
+
+.swiper {
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.lead a {
+  color: #2196f3; 
+  text-decoration: none; 
+  font-size: .9em;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 75vw;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  border-radius: 0.65em;
+}
+
+.swiper-button-prev {
+  color: #919191 !important
+}
+
+.swiper-button-next {
+  color: #919191 !important
+}
+
+.animate {
+  animation: swipe 4s infinite;
+  transform: rotate(-30deg);
+}
+
+.carousel-item img {
+  width: 10em;
+}
+
+@keyframes swipe {
+  50% {transform: rotate(30deg);}
+}
+
+.manga h5.lead {
+  background-color: #1d1d1f;
+  color: #fff !important;
+  width: fit-content;
+  padding: 5px 20px;
+  border-radius: 40px;
+  font-size: 1em;
+}
+
+.watercolour {
+  font-variant: all-small-caps;
+}
+
+.download a {
+  color: #2196f3;
+  text-decoration: none;
+  font-size: .85em;
+  font-weight: bold;
+  border: .145em solid #2196f3;
+  border-radius: .35em;
+}
+
+.download span {
+  font-size: medium;
+}
+
+.watercolour i {
+  vertical-align: middle;
+}
+
