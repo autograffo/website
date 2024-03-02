@@ -19,189 +19,189 @@
       "category": "anime",
       "src": "assets/imgs/swipe/anime_DRAGONBALLZ.png",
       "alt": "[c][b][fff100]DRAG[f65e05]★[fff100]N[e50d0e]BALL Ƶ",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "SPYFAMILY",
       "category": "anime",
       "src": "assets/imgs/swipe/anime_SPYFAMILY.png",
       "alt": "[c][b]SPY[8ea89b]❌[fffffd]FAMILY[/c]\n[sup]スパイファミリー",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "JUJUTSUKAISEN",
       "category": "anime",
       "src": "assets/imgs/swipe/anime_JUJUTSUKAISEN.png",
       "alt": "[c]   呪 術 廻 戦\n[b][fd1c2d][sup]jujutsu  kɑisen",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "SAOPAULO",
       "category": "time",
       "src": "assets/imgs/swipe/time_SAOPAULO.png",
       "alt": "[c][b]S.P.F.C.\n[ff0024] ◥  [000000]◤",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "CORINTHIANS",
       "category": "time",
       "src": "assets/imgs/swipe/time_CORINTHIANS.png",
       "alt": "[c][b]CORINTHIANS [ff0024]⚓ [000000][sup]1910",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "FLAMENGO",
       "category": "time",
       "src": "assets/imgs/swipe/time_FLAMENGO.png",
       "alt": "[c][010103] ┃[ffba00]   ★\n[c02418] ┃[fffffd] ᏣԄƑ",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "CRUZEIRO",
       "category": "time",
       "src": "assets/imgs/swipe/time_CRUZEIRO.png",
       "alt": "[c]CRUZEIRO [ffba00]亗\n[0067ac]   ★★★[sub]★[/sub]★",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "BORUSSIA",
       "category": "time",
       "src": "assets/imgs/swipe/time_BORUSSIA.png",
       "alt": "[c][b][f7d200]B[sup]V[/sup]B\n[sup]  09",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "VASCO",
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_VASCO.png",
       "alt": "[c][b]⚡ VASCO [sup][ff0024]e-[000000]sports",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "LOUD",
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_LOUD.png",
       "alt": "[c][b][13ff00]▷[fffffd] #goLOUD",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "FLUXO",
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_FLUXO.png",
       "alt": "[c][i]   FLUXO[/i]\n[8700f3]⸺[fffffd] ꚠ [ff002e]⸺",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "LOSGRANDES",
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_LOSGRANDES.png",
       "alt": "[c][b][ff5a00]LOS GRANDES[/b]\n[fffffd][sup]#goLOS",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "PAIN",
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_PAIN.png",
       "alt": "[c][b]paiN [e62946] ★ ★\n[000000]G A M I N G",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "B4",
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_B4.png",
       "alt": "[c][b][i]Ɓ[d42028]4[/i]\n[7f7f7f]eSports",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "CPN",
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_CPN.png",
       "alt": "[c][b]  [5912ce]亗[fffffd]\nCPN [sup][a3a3a3]#LaCopa",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "SAMSUNG",
       "category": "logomarca",
       "src": "assets/imgs/swipe/logomarca_SAMSUNG.png",
       "alt": "[c][b]SΛMSUNG",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "PLAYSTATION",
       "category": "logomarca",
       "src": "assets/imgs/swipe/logomarca_PLAYSTATION.png",
       "alt": "[c][b][2ddc96]△ [f52c31]○ [6b8ac8]╳ [dd94c6]□",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "FREEFIRE",
       "category": "logomarca",
       "src": "assets/imgs/swipe/logomarca_FREEFIRE.png",
       "alt": "[c][b][i]FREE F[ffba00]I[fffffd]RE[/i] [sup]®",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "GAROA",
       "category": "logomarca",
       "src": "assets/imgs/swipe/logomarca_GAROA.png",
       "alt": "[c][b][00ff00]☂ [fffffd]GAROA HACKER CLUBE",
-      "review": "TBD"
+      "review": "TDB - O APP ESTÁ CENSURANDO A PALVARA: HACKER"
     },
     {
       "name": "NOSMOKING",
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_NOSMOKING.png",
       "alt": "[b]NO SMOKING[/b]\n[c][dd951f]▂[fffffd]▂▂[aeaeae]ڪ",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "HAKUNAMATATA",
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_HAKUNAMATATA.png",
       "alt": "[c][b][ed4191]H A K U N A\n[8656ed]   M A T A T A",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "HACKING",
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_HACKING.png",
       "alt": "[c][31dd1f]H 101 A 010 1010\n0101 010 C 010 K",
-      "review": "TBD"
+      "review": "TBD - CENSURADO PELO APP"
     },
     {
       "name": "PACMAN",
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_PACMAN.png",
       "alt": "[c]P[ff0024]ᗣ[ffff01]ᗧ•[fffffd]M[00ffff]ᗣ[fffffd]N",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "HOGWARTS",
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_HOGWARTS.png",
       "alt": "[c][850e00]❾¾ [c68d0b]HOGWARTS\n         Express",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "FAZOPIX",
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_FAZOPIX.png",
       "alt": "[c]Faz o [b][8e9093]pix [30b6a8]❖",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "RUSHADAOFF",
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_RUSHADAOFF.png",
       "alt": "[c][b][i][ffba00][u]        [/u]\n      RUSH[u]ADÃO FF",
-      "review": "TBD"
+      "review": "OK"
     },
     {
       "name": "GRAVANDO",
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_GRAVANDO.png",
       "alt": "[c][b]GRAVANDO..[/b] [sup][ff0000]● [929292]rec",
-      "review": "TBD"
+      "review": "OK"
     }
   ]
 }
