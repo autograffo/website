@@ -52,9 +52,14 @@ h4 > span {
   border: .25em dashed #7a7a7a;
 }
 
-.manga-cover img {
-  width: 50vw;
-}
+/* Mobile S, M, L */
+@media screen and (max-width: 425px)  { .manga-cover img { width: 50vw; } }
+/* Tablet */
+@media screen and (min-width: 768px)  { .manga-cover img { width: 35vw; } }
+/* Laptop, Laptop L */
+@media screen and (min-width: 1024px) and (max-width: 1440px) { .manga-cover img { width: 25vw; } }
+/* 4K */
+@media screen and (min-width: 2560px) { .manga-cover img { width: 20vw; } }
 
 .compatible {
   text-decoration: none; 
@@ -127,11 +132,30 @@ button.navbar-toggler {
   font-size: .9em;
 }
 
+.lead img {
+  margin-left: .25em;
+}
+
+.select {
+  border: 1.5px solid #6c757d;
+  width: fit-content;
+  margin: 0 auto;
+  padding: .3em 1.3em;
+  border-radius: 5em;
+  font-size: 1em;
+}
+
 .swiper-slide {
   background-position: center;
   background-size: cover;
-  width: 75vw;
+  /*width: 75vw;*/
 }
+
+@media screen and (max-width: 425px)  { .swiper-slide { width: 75vw; } } /* Mobile S, M, L */
+@media screen and (min-width: 768px)  { .swiper-slide { width: 45vw; } } /* Tablet         */
+@media screen and (min-width: 1024px) { .swiper-slide { width: 35vw; } } /* Laptop         */
+@media screen and (min-width: 1440px) { .swiper-slide { width: 25vw; } } /* Laptop L       */
+@media screen and (min-width: 2560px) { .swiper-slide { width: 15vw; } } /* 4K             */
 
 .swiper-slide img {
   display: block;
