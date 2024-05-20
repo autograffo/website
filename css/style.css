@@ -13,15 +13,15 @@ body {
   padding: 0;
 }
 
-h1, h5 {
+h1, h2 {
   color: #1d1d1f;
 }
 
-h6 {
+h3 {
   font-size: 1.75em;
 }
 
-h4 span {
+h3 span {
   font-size: .35em;
   vertical-align: middle;
   color: #fff;
@@ -30,7 +30,7 @@ h4 span {
   border-radius: 20em;
 }
 
-h4 > span {
+h3 > span {
   background-color: #2196f3;
   display: inline-block;
 }
@@ -184,7 +184,7 @@ button.navbar-toggler {
   50% {transform: rotate(30deg);}
 }
 
-.manga h5.lead {
+.manga h3.lead {
   background-color: #1d1d1f;
   color: #fff !important;
   width: fit-content;
