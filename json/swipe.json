@@ -5,13 +5,15 @@
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_LOUD.png",
       "alt": "[c][b][13ff00]▷[fffffd] #goLOUD",
+      "title": "LOUD",
       "review": "OK"
     },
     {
       "name": "FLUXO",
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_FLUXO.png",
-      "alt": "[c][i]   FLUXO[/i]\n[8700f3]⸺[fffffd] ꚠ [ff002e]⸺",
+      "alt": "[c][i]    FLUXO[/i]\n[8700f3]⸺[fffffd] ꚠ [ff002e]⸺",
+      "title": "Fluxo",
       "review": "OK"
     },
     {
@@ -19,6 +21,7 @@
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_LOSGRANDES.png",
       "alt": "[c][b][ff5a00]LOS GRANDES[/b]\n[fffffd][sup]#goLOS",
+      "title": "Los Grandes",
       "review": "OK"
     },
     {
@@ -26,6 +29,7 @@
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_PAIN.png",
       "alt": "[c][b]paiN [e62946] ★ ★\n[000000]G A M I N G",
+      "title": "paiN Gaming",
       "review": "OK"
     },
     {
@@ -33,6 +37,7 @@
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_B4.png",
       "alt": "[c][b][i]Ɓ[d42028]4[/i]\n[7f7f7f]eSports",
+      "title": "B4 e-Sports",
       "review": "OK"
     },
     {
@@ -40,6 +45,7 @@
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_CPN.png",
       "alt": "[c][b]  [5912ce]亗[fffffd]\nCPN [sup][a3a3a3]#LaCopa",
+      "title": "CPN",
       "review": "OK"
     },
     {
@@ -47,6 +53,7 @@
       "category": "anime",
       "src": "assets/imgs/swipe/anime_ONEPUNCHMAN.png",
       "alt": "[c][b][e90c07]ONE•PUNCH MAN\n[sup][i][fffffd]ワンパンマン",
+      "title": "One-punch Man",
       "review": "OK" 
     },
     {
@@ -54,6 +61,7 @@
       "category": "anime",
       "src": "assets/imgs/swipe/anime_DEATHNOTE.png",
       "alt": "[c][b]DꓱᗉI᠆᠆ H NO I᠆᠆ E\n[sub][ff0000]      デスノート",
+      "title": "Death Note",
       "review": "OK"
     },
     {
@@ -61,6 +69,7 @@
       "category": "anime",
       "src": "assets/imgs/swipe/anime_DRAGONBALLZ.png",
       "alt": "[c][b][fff100]DRAG[f65e05]★[fff100]N[e50d0e]BALL Ƶ",
+      "title": "Dragon Ball Z",
       "review": "OK"
     },
     {
@@ -68,6 +77,7 @@
       "category": "anime",
       "src": "assets/imgs/swipe/anime_SPYFAMILY.png",
       "alt": "[c][b]SPY[8ea89b]❌[fffffd]FAMILY[/c]\n[sup]スパイファミリー",
+      "title": "SPY X FAMILY",
       "review": "OK"
     },
     {
@@ -75,6 +85,7 @@
       "category": "anime",
       "src": "assets/imgs/swipe/anime_JUJUTSUKAISEN.png",
       "alt": "[c]   呪 術 廻 戦\n[b][fd1c2d][sup]jujutsu  kɑisen",
+      "title": "Jujutsu Kaisen",
       "review": "OK"
     },
     {
@@ -82,6 +93,7 @@
       "category": "time",
       "src": "assets/imgs/swipe/time_SAOPAULO.png",
       "alt": "[c][b]S.P.F.C.\n[ff0024] ◥  [000000]◤",
+      "title": "SPFC",
       "review": "OK"
     },
     {
@@ -89,6 +101,7 @@
       "category": "time",
       "src": "assets/imgs/swipe/time_CORINTHIANS.png",
       "alt": "[c][b]CORINTHIANS [ff0024]⚓ [000000][sup]1910",
+      "title": "SCCP",
       "review": "OK"
     },
     {
@@ -96,6 +109,7 @@
       "category": "time",
       "src": "assets/imgs/swipe/time_FLAMENGO.png",
       "alt": "[c][010103] ┃[ffba00]   ★\n[c02418] ┃[fffffd] ᏣԄƑ",
+      "title": "Flamengo",
       "review": "OK"
     },
     {
@@ -103,6 +117,7 @@
       "category": "time",
       "src": "assets/imgs/swipe/time_CRUZEIRO.png",
       "alt": "[c]CRUZEIRO [ffba00]亗\n[0067ac]   ★★★[sub]★[/sub]★",
+      "title": "Cruzeiro",
       "review": "OK"
     },
     {
@@ -110,6 +125,7 @@
       "category": "time",
       "src": "assets/imgs/swipe/time_BORUSSIA.png",
       "alt": "[c][b][f7d200]B[sup]V[/sup]B\n[sup]  09",
+      "title": "Borussia Dortmund",
       "review": "OK"
     },
     {
@@ -117,6 +133,7 @@
       "category": "e-sports",
       "src": "assets/imgs/swipe/e-sports_VASCO.png",
       "alt": "[c][b]⚡ VASCO [sup][ff0024]e-[000000]sports",
+      "title": "Vasco e-Sports",
       "review": "OK"
     },
     {
@@ -124,6 +141,7 @@
       "category": "logomarca",
       "src": "assets/imgs/swipe/logomarca_SAMSUNG.png",
       "alt": "[c][b]SΛMSUNG",
+      "title": "Samsung",
       "review": "OK"
     },
     {
@@ -131,6 +149,7 @@
       "category": "logomarca",
       "src": "assets/imgs/swipe/logomarca_PLAYSTATION.png",
       "alt": "[c][b][2ddc96]△ [f52c31]○ [6b8ac8]╳ [dd94c6]□",
+      "title": "Playstation",
       "review": "OK"
     },
     {
@@ -138,6 +157,7 @@
       "category": "logomarca",
       "src": "assets/imgs/swipe/logomarca_FREEFIRE.png",
       "alt": "[c][b][i]FREE F[ffba00]I[fffffd]RE[/i] [sup]®",
+      "title": "Free Fire",
       "review": "OK"
     },
     {
@@ -145,6 +165,7 @@
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_NOSMOKING.png",
       "alt": "[b]NO SMOKING[/b]\n[c][dd951f]▂[fffffd]▂▂[aeaeae]ڪ",
+      "title": "No Smoking",
       "review": "OK"
     },
     {
@@ -152,6 +173,7 @@
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_HAKUNAMATATA.png",
       "alt": "[c][b][ed4191]H A K U N A\n[8656ed]   M A T A T A",
+      "title": "Hakuna Matata",
       "review": "OK"
     },
     {
@@ -159,6 +181,7 @@
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_PACMAN.png",
       "alt": "[c]P[ff0024]ᗣ[ffff01]ᗧ•[fffffd]M[00ffff]ᗣ[fffffd]N",
+      "title": "Pacman",
       "review": "OK"
     },
     {
@@ -166,6 +189,7 @@
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_HOGWARTS.png",
       "alt": "[c][850e00]❾¾ [c68d0b]HOGWARTS\n         Express",
+      "title": "Hogwarts",
       "review": "OK"
     },
     {
@@ -173,6 +197,7 @@
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_FAZOPIX.png",
       "alt": "[c]Faz o [b][8e9093]pix [30b6a8]❖",
+      "title": "Faz o Pix",
       "review": "OK"
     },
     {
@@ -180,6 +205,7 @@
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_RUSHADAOFF.png",
       "alt": "[c][b][i][ffba00][u]        [/u]\n      RUSH[u]ADÃO FF",
+      "title": "Rushadão FF",
       "review": "OK"
     },
     {
@@ -187,6 +213,7 @@
       "category": "diversos",
       "src": "assets/imgs/swipe/diversos_GRAVANDO.png",
       "alt": "[c][b]GRAVANDO..[/b] [sup][ff0000]● [929292]rec",
+      "title": "Gravando",
       "review": "OK"
     }
   ]

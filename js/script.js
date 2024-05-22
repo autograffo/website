@@ -54,8 +54,8 @@ const copyAltToClipboard = async element => {
     // Faz uma requisição assíncrona para obter os dados das imagens de um arquivo JSON
     const { images } = await (await fetch('json/swipe.json')).json();
     // Insere as imagens no swiper
-    document.querySelector('.swiper-wrapper').innerHTML = images.map(({ src, alt }) =>
-      `<div class="swiper-slide"><img src="${src}" alt="${alt}" class="code" /></div>`
+    document.querySelector('.swiper-wrapper').innerHTML = images.map(({ src, alt, title }) =>
+      `<div class="swiper-slide"><img src="${src}" alt="${alt}" title="${title}" class="code" /></div>`
     ).join('');
     
     // Inicializa o swiper com as configurações desejadas
